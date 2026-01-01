@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background: #1B244A;
+    border: #0a0001;
+    border-radius: 2px;
+    padding: 5px;
+}
+#HOM-TM {
+    align-items: center;
+    background: #0a0001;
+    font-size: 50px;
+    color: #F94F6D;
+    width: 60px;
+    margin: 10px;
+    font-family: Cursed Timer ULiL;
+}
+#GUS-TM {
+    align-items: center;    
+    background: #0a0001;
+    font-size: 50px;
+    color: #F94F6D;
+    width: 60px;
+    margin: 10px;
+}
+h3 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 20px;
+    align-items: center;
+    font-family: sans-serif;
+    color: white;
+}
+button {
+    align-items: center;
+    border-color: #9AABD8;
+    color: white;
+    background-color: #1B244A ;
+    font-size: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding: 2px;
+    font-family: "C:\Users\Nagap\Downloads\cursed-timer-ulil-font\CursedTimerUlil-Aznm.ttf";
+}
